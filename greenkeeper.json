@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "react-native/albums/package.json",
+        "react-native/auth/package.json"
+      ]
+    }
+  }
+}
